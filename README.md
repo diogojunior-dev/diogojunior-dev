@@ -1,7 +1,5 @@
 # Hi 👋, I'm Diogo Junior
 
-Developer passionate about technology and learning new things.
-
 <h3>You can find me here:</h3>
 
 [![Linkedin](https://img.shields.io/badge/-diogojunior-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diogojunior-dev/)](LINK-DO-SEU-LINKEDIN)
