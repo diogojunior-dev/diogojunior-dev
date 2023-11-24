@@ -1,6 +1,6 @@
 # Hi 👋, I'm Diogo Junior
 
-Back-end software developer passionate about technology and learning new things.
+Developer passionate about technology and learning new things.
 
 <h3>You can find me here:</h3>
 
